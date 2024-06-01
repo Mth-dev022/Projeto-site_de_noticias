@@ -1,2 +1,3 @@
 # Projeto-site_de_noticias
- Site de noticias
+ Site de noticias.
+ 
